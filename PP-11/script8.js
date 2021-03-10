@@ -4,7 +4,7 @@ var y = prompt("Enter 2nd number ");
 var a;
 var p;
 
-a = x * y ;
-p = (2 * x) + (2 * y) ;
+a = x * y;
+p = (2 * x) + (2 * y);
 
-alert("Area =  " + a + "\nPerimeter =  " + p );
+alert("Area =  " + a + "\nPerimeter =  " + p);

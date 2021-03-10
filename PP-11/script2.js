@@ -12,5 +12,5 @@ else { alert("False, the three numbers are not eqaul"); }
 if (num3 > num2 && num2 > num1) { alert("True, c > b >a"); }
 else { alert("False, c > b >a eqaution is not true"); }
 
-if ((num1 == num2) || ( num2 == num3) || (num1 == num3)) { alert("True, tow numbers are eqaul"); }
+if ((num1 == num2) || (num2 == num3) || (num1 == num3)) { alert("True, tow numbers are eqaul"); }
 else { alert("False, There is no number equal to the othe"); }

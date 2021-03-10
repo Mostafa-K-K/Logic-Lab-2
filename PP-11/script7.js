@@ -4,6 +4,6 @@ var z = prompt("Enter 3rd number ");
 var w = prompt("Enter 4th number ");
 
 var a;
-a = x -((y * w) / z) ;
+a = x - ((y * w) / z);
 
-alert("The equation =  " + a );
+alert("The equation =  " + Math.ceil(a));

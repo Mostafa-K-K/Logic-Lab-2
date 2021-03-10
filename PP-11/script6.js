@@ -7,6 +7,6 @@ var num2 = parseInt(b);
 var num3 = parseInt(c);
 
 var x;
-x = ( num1 + num2 + num3 )/3 ;
+x = (num1 + num2 + num3) / 3;
 
-alert("The average =  " + x );
+alert("The average =  " + x);

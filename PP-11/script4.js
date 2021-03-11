@@ -1,8 +1,8 @@
-var x = prompt("The temperature in Celcius scale ");
+	var x = prompt("The temperature in Celcius scale ");
 
-var c = parseInt(x);
-var f;
+	var c = parseInt(x);
+	var f;
 
-f = c * (9 / 5) + 32;
+	f = c * (9 / 5) + 32;
 
-alert("The temperature in Fahrenheit = " + f);
+	alert("The temperature in Fahrenheit = " + f);
